@@ -32,7 +32,7 @@ public class MainFibo {
 			resposta [cont] = anterior;
 		}
 		return resposta;
-		//teste
+
 }
 }
 
